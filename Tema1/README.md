@@ -1,10 +1,5 @@
 # Actividad #1: Instalación de una pila LAMP en Ubuntu
 
-**Autor:** _tu nombre_
-**Fecha:** 5 de octubre de 2026
-**Sistema:** Ubuntu 20.04 (servidor o máquina virtual)
-**Referencia:** [Cómo instalar la pila LAMP en Ubuntu 20.04 (DigitalOcean)](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-es)
-
 ## Objetivo
 
 Instalar y configurar una pila **LAMP** (Linux, Apache, MySQL, PHP), crear un Virtual Host propio, comprobar que PHP se procesa correctamente y que PHP puede conectarse a la base de datos. Al final se restaura el Virtual Host por defecto.
