@@ -1,6 +1,5 @@
 # SRI
 ## Tema 0 Prueba
-![hola](Imagenes/Broly_culo-1.png)
 ![dante](/Imagenes/dnte.gif)
 ![gangnam](/Imagenes/gangnam.gif)
 
