@@ -34,14 +34,6 @@ sudo ufw allow in "Apache"
 sudo ufw status
 ```
 
-Verificamos en el navegador accediendo a `http://IP_DEL_SERVIDOR`. Debe aparecer la página por defecto de Apache en Ubuntu. Para conocer la IP pública:
-
-```bash
-curl http://icanhazip.com
-```
-
-> 📸 _Captura: página por defecto de Apache._
-> `![Apache por defecto](img/01-apache.png)`
 
 ## 2. Instalación de MySQL
 
